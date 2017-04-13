@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "CenterTextLayer"
   s.version      = "0.0.1"
-  s.summary      = "Universal CATextLayer subclass that centers its text."
+  s.summary      = "Universal CATextLayer subclass that centers its text vertically."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 CenterTextLayer
 ===
 
-Universal CATextLayer subclass that centers its text.
+Universal CATextLayer subclass that centers its text vertically.
 
 Requierments
 ----
