@@ -3,6 +3,8 @@ CenterTextLayer
 
 Universal CATextLayer subclass that centers its text vertically.
 
+![alt tag](https://github.com/cemolcay/CenterTextLayer/blob/master/demo.png?raw=true)
+
 Requierments
 ----
 
