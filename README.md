@@ -1,7 +1,7 @@
 CenterTextLayer
 ===
 
-Universal CATextLayer subclass that centers its text.
+Universal CATextLayer subclass that centers its text vertically.
 
 Requierments
 ----
