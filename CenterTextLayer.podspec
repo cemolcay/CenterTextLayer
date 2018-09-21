@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
   s.name         = "CenterTextLayer"
   s.version      = "0.0.2"
   s.summary      = "Universal CATextLayer subclass that centers its text vertically."
+  s.swift_version = "4.2"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
